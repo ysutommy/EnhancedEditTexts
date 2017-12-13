@@ -1,6 +1,6 @@
 # EnhancedEditTexts
-一个自定义EditText的合集，目前只有2个：
-DemicalEditText 可自定义小数位数的输入框
+一个自定义EditText的合集，目前只有2个： 
+DemicalEditText 可自定义小数位数的输入框 
 SpilttedEditText 自带分隔符的输入框，默认支持以空格（" "），逗号（,），下划线（_）分隔，可定义
 
 # 使用
