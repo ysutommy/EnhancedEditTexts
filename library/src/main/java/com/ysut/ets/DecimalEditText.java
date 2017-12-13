@@ -12,8 +12,7 @@ import android.widget.EditText;
 /**
  * 自定义保持小数位数的编辑框
  *
- * <p/>
- * Created by gaopoy on 2016/10/19.
+ * Created by ysutommy on 2016/10/19.
  */
 public class DecimalEditText extends EditText {
 
