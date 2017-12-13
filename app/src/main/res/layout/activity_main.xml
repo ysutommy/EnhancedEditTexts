@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ysut.enhancedets.MainActivity">
+
+    <com.ysut.ets.SpilttedEditText
+        android:layout_width="345dp"
+        android:layout_height="wrap_content"
+        android:hint="spiltted"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.182"
+        app:sep_len="4"
+        app:separator=" "/>
+
+    <com.ysut.ets.DecimalEditText
+        android:layout_width="345dp"
+        android:layout_height="wrap_content"
+        android:hint="demical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.034"
+        app:decimal_max_value="100000000"
+        app:decimal_digits="3"/>
+
+</android.support.constraint.ConstraintLayout>
