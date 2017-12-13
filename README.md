@@ -20,4 +20,5 @@
 		compile 'com.github.ysutommy:EnhancedEditTexts:v1.0'
 	}
 
-<iframe height=498 width=510 src="http://player.youku.com/embed/XNjcyMDU4Njg0">
+### 效果图
+![](https://github.com/ysutommy/EnhancedEditTexts/blob/master/app/ezgif.com-video-to-gif.gif "")
