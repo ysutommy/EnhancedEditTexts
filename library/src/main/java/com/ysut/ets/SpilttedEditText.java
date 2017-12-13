@@ -12,7 +12,7 @@ import android.widget.EditText;
 
 /**
  *
- * Created by gaopoy on 2016/10/18.
+ * Created by ysutommy on 2016/10/18.
  * */
 public class SpilttedEditText extends EditText {
 
