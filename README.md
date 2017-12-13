@@ -1,7 +1,7 @@
 [![](https://jitpack.io/v/ysutommy/EnhancedEditTexts.svg)](https://jitpack.io/#ysutommy/EnhancedEditTexts)
 
 # EnhancedEditTexts
-一个自定义EditText的合集，目前只有2个：
+一个自定义EditText的合集，目前有：
 
 `DemicalEditText` 可自定义小数位数的输入框 
 
@@ -19,10 +19,3 @@
 	dependencies {
 		compile 'com.github.ysutommy:EnhancedEditTexts:v1.0'
 	}
-
-<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
-      <source id="webm" src="http://media.w3.org/2010/05/sintel/trailer.webm" type="video/webm">
-      <source id="ogv" src="http://media.w3.org/2010/05/sintel/trailer.ogv" type="video/ogg">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
