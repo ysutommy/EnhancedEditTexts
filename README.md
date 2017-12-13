@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/ysutommy/EnhancedEditTexts.svg)](https://jitpack.io/#ysutommy/EnhancedEditTexts)
+
 # EnhancedEditTexts
 一个自定义EditText的合集，目前只有2个：
 
@@ -15,5 +17,5 @@
 	}
 ### Step2 Add the dependency
 	dependencies {
-		compile 'com.github.ysutommy:EnhancedEditTexts:-SNAPSHOT'
+		compile 'com.github.ysutommy:EnhancedEditTexts:v1.0'
 	}
